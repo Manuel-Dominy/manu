@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.bg-image{
+    width:100%;
+    height:100vh;
+    background-image: url("jeremy-perkins-1XgFFEG_RGA-unsplash.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 150%;
+}
+.container{
+    padding: 100px;
+    padding-bottom: 300px;
+}
+h3{
+    font-size: 15px;
+    color:black;
+}
+p{
+    color: grey;
+}
